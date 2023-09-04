@@ -15,5 +15,5 @@ Model ini terdiri dari dataset stunting / malnutrisi dan klasifikasi jenis makan
 
 ## Modeling
 
-Model ini dibuat menggunakan trasnfer learning mobilenetv2 dan berhasil mendapatkan akurasi sebesar 93% untuk prediksi klasifikasi jenis makanan
+Model ini dibuat menggunakan trasnfer learning mobilenetv2 dan berhasil mendapatkan akurasi sebesar 93% untuk prediksi klasifikasi jenis makanan dan untuk model prediksi stunting akurasinya sebesar 85%
 
