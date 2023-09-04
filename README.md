@@ -16,5 +16,6 @@
 
 ## Modeling
 
-Model ini dibuat menggunakan trasnfer learning mobilenetv2 dan berhasil mendapatkan akurasi sebesar 93% untuk prediksi klasifikasi jenis makanan dan untuk model prediksi stunting akurasinya sebesar 85%
+- Model klasifikasi jenis makanan dibuat menggunakan trasnfer learning mobilenetv2 dan berhasil mendapatkan akurasi sebesar 93%.
+- Model prediksi stunting dibuat menggunakan metode deep learning dan berhasil mendapatkan akurasi sebesar 85%.
 
