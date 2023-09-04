@@ -11,7 +11,8 @@
 
 ## EDA & Preprocessing 
 
-Model ini terdiri dari dataset stunting / malnutrisi dan klasifikasi jenis makanan sehat dan bergizi sebanyak 20 jenis.
+- Model ini terdiri dari dataset stunting / malnutrisi dan klasifikasi jenis makanan sehat dan bergizi sebanyak 20 jenis.
+- Untuk dataset gambar sendiri dibuat dengan cara teknik web scrapping untuk memisahkan antara data training, validation , dan juga testing.
 
 ## Modeling
 
